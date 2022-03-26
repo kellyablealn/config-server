@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+greeting-service:
+  greeting: "Olá perf"
+  default-value: "mundo perf"
