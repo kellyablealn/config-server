@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Olá perf"
+  greeting: "Oieeee novo perf"
   default-value: "mundo perf"
